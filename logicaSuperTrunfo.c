@@ -28,7 +28,7 @@
 //PIB per Capita: 44532.91 reais
 
 
-
+int main (){
 
 // =====================
 // Declaração das cartas
